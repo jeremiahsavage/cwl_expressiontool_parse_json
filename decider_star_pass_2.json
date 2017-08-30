@@ -1,0 +1,21 @@
+{
+    "fastq1_paths": [
+        {
+            "class": "File",
+            "path": "A_1.fq.gz"
+        }
+    ],
+    "fastq2_paths": [
+        {
+            "class": "File",
+            "path": "A_2.fq.gz"
+        }
+    ],
+    "fastq_s_paths": [],
+    "readgroup_paths": [
+        {
+            "class": "File",
+            "path": "A.json"
+        }
+    ]
+}
